@@ -1,0 +1,17 @@
+{
+    "user_email": "iosef@gmail.com",
+    "contacts": [
+        {
+            "name": "Nahomi",
+            "phone": "87654321",
+            "email": "nahomi@gmail.com",
+            "notes": "Contacto de Nahomi Canchan"
+        },
+        {
+            "name": "Jose",
+            "phone": "09876543",
+            "email": "jose@hotmail.com",
+            "notes": "Contacto de Jose Canchan"
+        }
+    ]
+}
