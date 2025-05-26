@@ -23,3 +23,11 @@ Aplicación de escritorio para gestión de contactos personales con sistema de a
 git clone https://github.com/fr0st-even/Python-POO/tree/main/poryecto_final
 cd proyecto_final
 ```
+
+## Tutorial de uso
+
+- Accede al siguiente link para observar el video explicativo sobre el uso y funcionamiento del programa
+
+```bash
+drive view https://drive.google.com/file/d/18rcJXW8qnvCIOGYAZSqlKQ4XVldjZqha/view?usp=sharing
+```

@@ -53,7 +53,7 @@ class LoginWindow(tk.Tk):
         self.register_confirm.pack(fill=tk.X, pady=(0, 10))
         
         register_btn = tk.Button(register_tab, text="Registrarse", command=self._on_register)
-        register_btn.pack(pady=10)
+        register_btn.pack(pady=0)
     
     def _on_login(self):
         email = self.login_email.get()
