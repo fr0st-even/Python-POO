@@ -20,6 +20,6 @@ Aplicación de escritorio para gestión de contactos personales con sistema de a
 1. Clona el repositorio o descarga los archivos del proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/agenda-contactos.git
-cd agenda-contactos
+git clone https://github.com/fr0st-even/Python-POO/tree/main/poryecto_final
+cd proyecto_final
 ```
